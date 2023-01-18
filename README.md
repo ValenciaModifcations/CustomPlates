@@ -41,5 +41,10 @@ Example
 
 ---
 Hey! Read Me For More Plates
+=
 
-At line 3 add 3 more photo links(and replace if you want the first two), they don't have to be imgur. there are currently two plates uploaded.
+This isn't the best multiple plate setup but it does work as needed. 
+
+At Line 3, you can upload 5 different images (doesnt need to be from imgur but I suggest it.), the first image works fine, the second image is a replacement for the SA EXEMPT plate, that one should be the last picture on the image list, not the first, second, third, or fourth. the last- to replace the SA EXEMPT plates in game. 
+
+
